@@ -1,6 +1,6 @@
 Weights & Biases (W&B) project: https://wandb.ai/diego-her-jimenez-personal/nyc_airbnb?nw=nwuserdiegoherjimenez
 
-Github repository: https://github.com/Diego-Hernandez-Jimenez/udacity-mlops-pipeline/tree/1.0.1
+Github repository: https://github.com/Diego-Hernandez-Jimenez/udacity-mlops-pipeline
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
